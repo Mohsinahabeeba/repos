@@ -81,6 +81,8 @@ namespace MyJson
 
             Console.WriteLine("new code has been added");
             Console.WriteLine("chsngessssssss made");
+            Console.WriteLine("new code has been added");
+            Console.WriteLine("chsngessssssss made");
             // String data = JsonConvert.SerializeObject(myList);
             // File.WriteAllText("D:/ mohs / JSONS / MyJson / jsconfig2.json", data);
             Console.ReadLine();
