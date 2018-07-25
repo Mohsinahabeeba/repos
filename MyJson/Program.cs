@@ -78,6 +78,8 @@ namespace MyJson
             }
             //Console.WriteLine("rewriting the jsconfig1.json");
             StreamWriter writing= new StreamWriter(@"D:\readwrite\Demo.txt");
+            Console.WriteLine("now we are in writing method ");
+            Console.WriteLine("the code has been changed now");
             
            
 
