@@ -118,6 +118,8 @@ namespace FileIO
             } while (input != "q");
             Console.WriteLine("new code has been added");
             Console.WriteLine("chsngessssssss made");
+            Console.WriteLine("new code has been added");
+            Console.WriteLine("chsngessssssss made");
         }
     }
 }
