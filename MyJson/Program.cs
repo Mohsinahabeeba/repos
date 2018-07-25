@@ -78,8 +78,8 @@ namespace MyJson
             }
             //Console.WriteLine("rewriting the jsconfig1.json");
             StreamWriter writing= new StreamWriter(@"D:\readwrite\Demo.txt");
-            
-           
+
+            Console.WriteLine("new code has been added");
 
             // String data = JsonConvert.SerializeObject(myList);
             // File.WriteAllText("D:/ mohs / JSONS / MyJson / jsconfig2.json", data);
