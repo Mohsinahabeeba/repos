@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Newtonsoft.Json;
+//using Newtonsoft.Json;
 using System.IO;
 
 namespace MyJson
@@ -80,7 +80,7 @@ namespace MyJson
             StreamWriter writing= new StreamWriter(@"D:\readwrite\Demo.txt");
 
             Console.WriteLine("new code has been added");
-
+            Console.WriteLine("chsngessssssss");
             // String data = JsonConvert.SerializeObject(myList);
             // File.WriteAllText("D:/ mohs / JSONS / MyJson / jsconfig2.json", data);
             Console.ReadLine();
