@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyJson", "MyJson\MyJson.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileIO", "FileIO\FileIO.csproj", "{6C5BB700-90E6-4314-888A-0BCCE51B239E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlProj", "XmlProj\XmlProj.csproj", "{A08C7992-760E-48F6-A36A-7B2AAE6775F4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{6C5BB700-90E6-4314-888A-0BCCE51B239E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6C5BB700-90E6-4314-888A-0BCCE51B239E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6C5BB700-90E6-4314-888A-0BCCE51B239E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A08C7992-760E-48F6-A36A-7B2AAE6775F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A08C7992-760E-48F6-A36A-7B2AAE6775F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A08C7992-760E-48F6-A36A-7B2AAE6775F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A08C7992-760E-48F6-A36A-7B2AAE6775F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

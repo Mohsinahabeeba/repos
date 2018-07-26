@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--craeting xml document using xml linq-->
+<Students>
+  <student id="101">
+    <name>john</name>
+    <gender>Male</gender>
+    <total>900</total>
+  </student>
+  <student id="103">
+    <name>mary</name>
+    <gender>female</gender>
+    <total>850</total>
+  </student>
+  <student id="105">
+    <name>Julie</name>
+    <total>1000</total>
+  </student>
+</Students>

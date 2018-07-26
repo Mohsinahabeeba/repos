@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<School xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SchoolName>crown</SchoolName>
+  <SchoolAddress>shakergunj</SchoolAddress>
+  <Zipcode>5000078</Zipcode>
+</School>

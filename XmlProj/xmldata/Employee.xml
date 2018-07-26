@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--this is the new employee xml file-->
+<Employees>
+  <employee>
+    <ID>89</ID>
+    <name>john</name>
+    <Departement>devep</Departement>
+  </employee>
+  <employee>
+    <ID>56</ID>
+    <name>jill</name>
+    <Departement>finanace</Departement>
+  </employee>
+  <employee>
+    <ID>45</ID>
+    <name>rose</name>
+    <Departement>sales</Departement>
+  </employee>
+</Employees>
