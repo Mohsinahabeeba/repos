@@ -14,7 +14,7 @@ namespace XmlProj
                             group Emp by Emp.Dept;
             foreach(var group in EmpGroups)
             {
-                Console.WriteLine("{0}-{1}", group.Key, group.Count(x=>x.Gender = "male"));
+                Console.WriteLine("{0}-{1}", group.Key, group.Count(x=>x.Gender == "male"));
             }
         }
     }
